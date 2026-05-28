@@ -1,18 +1,88 @@
-# 💫 About Me:
-Hi, I'm a B.Tech IT student at Government College of Engineering and Ceramic Technology (GCECT), currently in my 2nd year. I have knowledge of HTML, CSS, JavaScript, C, C++, Java, JDBC, and MySQL. I enjoy building projects and improving my problem-solving skills through coding. My first major project is a console-based Java Banking Application developed using Java and JDBC for database connectivity. I am passionate about software development and continuously learning new technologies to strengthen my development skills.<br>
+<div align="center">
 
+# Hi 👋, I'm Pabitra Pal
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pabitra Pal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pabitra_01) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=B.Tech+IT+Student;Java+Developer;Backend+Development+Learner;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Pabitra-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Pabitra-1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Pabitra-1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Pabitra-1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+🎓 B.Tech IT Student at **GCECT**
+📚 Currently in 2nd Year
+💻 Interested in Java Development & Backend Engineering
+🌱 Learning **Spring Boot, DSA, and Advanced Java**
+⚡ Love building projects and solving coding problems
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,vscode,git,github" />
+
+</div>
+
+---
+
+## 💼 Featured Project
+
+### 🏦 Java Banking Application (Console Based)
+
+🔹 Developed using **Java, JDBC, and MySQL**
+🔹 Features:
+
+* User Registration & Login
+* Account Management
+* Balance Deposit & Withdrawal
+* Transaction Handling
+* Database Connectivity using JDBC
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Code • Learn • Build • Repeat" ✨
+
+</div>
