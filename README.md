@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Pabitra Pal
 
-<!--
-**Pabitra-1/Pabitra-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student at **GCECT**
+📚 Currently in 2nd Year
+💻 Passionate about Programming, Java Development, and Problem Solving
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+\
+
+## 🌱 Currently Learning
+
+* Data Structures & Algorithms
+* Advanced Java
+* Spring Boot
+* Backend Development
+
+## 💼 Projects
+
+🔹 **Java Banking Application (Console Based)**
+Built using **Java, JDBC, and MySQL** with features like account creation, login system, balance management, and transaction handling.
+
+## 📈 Goals
+
+* Become a skilled Full Stack Java Developer
+* Build real-world projects
+* Contribute to Open Source
+
+✨ “Code. Learn. Build. Repeat.”
