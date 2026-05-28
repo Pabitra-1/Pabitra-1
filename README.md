@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=Pabitra-1&theme=tokyonight" />
 
 </div>
 
@@ -69,11 +69,11 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Pabitra-1/">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/pabitra-pal-407235394/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
