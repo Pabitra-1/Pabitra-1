@@ -13,7 +13,7 @@
 🎓 B.Tech IT Student at **GCECT**
 📚 Currently in 2nd Year
 💻 Interested in Java Development & Backend Engineering
-🌱 Learning **Spring Boot, DSA, and Advanced Java**
+    Learning **Node Js, DSA, and Advanced Java**
 ⚡ Love building projects and solving coding problems
 
 ---
